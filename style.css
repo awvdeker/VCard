@@ -9,12 +9,17 @@ body {
 .gegevens {
   /*display: inline-block;*/
   color: white;
+  font-family: Arial;
   position: absolute;
   top: 33%;
   left: 33%;
   /*background-color: white;*/
   width: 500px;
-  /*border: 10px solid yellow;*/
+  border: 2px solid white;
+  border-radius: 5px;
   padding: 25px;
   margin: 25px;
+}
+img.foto {
+  float: right;
 }
