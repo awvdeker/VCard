@@ -1,0 +1,20 @@
+body {
+  background-image: url("ruimte.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*.container{
+  text-align: center;
+}*/
+.gegevens {
+  /*display: inline-block;*/
+  color: white;
+  position: absolute;
+  top: 33%;
+  left: 33%;
+  /*background-color: white;*/
+  width: 500px;
+  /*border: 10px solid yellow;*/
+  padding: 25px;
+  margin: 25px;
+}
